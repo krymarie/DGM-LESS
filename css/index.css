@@ -1,1 +1,6 @@
-/* Compiled code should go here! */
+html {
+  background-color: white;
+}
+html header nav a {
+  font-size: 40px;
+}
